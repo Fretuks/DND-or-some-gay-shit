@@ -1,0 +1,8 @@
+[[Resonances]]
+[[Oaths]]
+[[Combat]]
+[[Effects]]
+[[Races]]
+[[Factions]]
+[[Lumen]]
+[[Player Characters]]

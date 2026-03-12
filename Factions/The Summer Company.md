@@ -1,0 +1,9 @@
+The Summer Company operates out of Summer Isle, a harsh, sun-baked island where industry matters more than politics. They are a small but highly influential group, best known for inventing firearms in the New World. Revolvers, flintlocks, and early rifles all trace back to their workshops, and most of that progress is credited to Gunsmith Rosen, whose designs still shape modern combat.
+
+The Company was founded on invention and trade, not expansion. Summer Isle is their only territory, and they have little interest in ruling land or people. Their relationship with the Central Authority is strictly practical. Even after being cheated, exploited, and kept at arm’s length, they continue to supply weapons because it keeps their people fed and their forges running.
+
+That balance has started to fall apart. [[The Ignition Union]], once another contractor of [[The Central Authority]], openly broke ties and launched a violent raid on Summer Company workers, killing many of them. The Company responded with force, and fighting has since spread across Miner’s Landing. This conflict isn’t about ideology or conquest, it’s about survival and protecting their work.
+
+Internally, patience is wearing thin. Scope, one of the Company’s senior officers, has made it clear that their cooperation with the Authority has limits. If the contracts stop being worth the cost, the Summer Company will look elsewhere for allies and buyers.
+
+They are not a nation, and they do not claim moral authority. The Summer Company exists to build weapons, sell them, and stay alive in a world that is quickly learning how dangerous those weapons can be.

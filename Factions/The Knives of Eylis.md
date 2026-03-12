@@ -1,0 +1,9 @@
+The Knives of Eylis are a mercenary group that operates out of the Central Luminant’s criminal underworld. They are not a nation, a cult, or a formal army. They work for pay, contracts, or favors, and their loyalty rarely extends beyond the job in front of them. What sets them apart from other killers-for-hire is their devotion to Eylis, a being they call the Punished Dreamer, whom they believe guides their actions from a place known as the Voidheart.
+
+Their work is usually discovered after the fact. Ships disappear at sea. Supply convoys are found destroyed with no survivors. People vanish without witnesses. In many cases, the only sign left behind is a distinctive curved knife driven into the body of the target. This signature has made the Knives infamous, even among other criminal groups.
+
+Members of the Knives swear a strange Oath that grants them limited control over time, allowing them to slow their surroundings during combat. This makes them extremely dangerous despite their relatively small numbers. They wear worn, sea-stained armor and carry themselves like experienced hunters rather than soldiers. The group favors careful planning and ambushes, often tracking targets for long periods before striking.
+
+The Knives are known to work for [[The Central Authority]] in secret, disrupting Etrean movements and capturing members of [[The Children of Navae]] for transport to Fort Merit. Despite this cooperation, they are not truly loyal to the Authority and are treated more as disposable assets than allies. Rumors about their past vary, some claim they were once whalers in an earlier age, others believe their “hunt” has simply grown larger over time.
+
+Whether they are guided by a higher power or driven by obsession is unclear. What _is_ clear is that encounters with the Knives of Eylis rarely leave witnesses behind.

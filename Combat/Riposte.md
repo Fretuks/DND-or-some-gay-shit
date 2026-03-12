@@ -1,0 +1,1 @@
+When an enemy is stance-broken, they enter a 'staggered' state for 1 round. Anyone can use an action to perform a 'riposte', using the weapons riposte modifier on top of the original scaled damage. 

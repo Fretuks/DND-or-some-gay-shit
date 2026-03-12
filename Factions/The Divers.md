@@ -1,0 +1,11 @@
+The Divers are an organization dedicated to exploring and surviving the Depths. They were formed after the Tides, when it became clear that understanding what lay below was necessary for survival. More than any other group, the Divers specialize in navigating hostile environments, documenting what they find, and finding ways to return alive.
+
+Their main headquarters is the Markor Citadel in the Central Luminant. Active operations are run out of Castle Light, a heavily fortified structure located in the First Layer of the Depths. From there, Diver teams descend into deeper layers, often with little support and no guarantee of return.
+
+Although funded by [[The Central Authority]], the Divers operate with a high degree of independence. Their relationship with the Authority is tense and transactional. Other factions often dismiss them as loyalists or expendable assets, but the Divers largely ignore political disputes. Their focus is survival, knowledge, and preparation for what may come next.
+
+Joining the Divers is extremely dangerous. The majority of recruits do not survive long enough to complete training. Those who do must pass the Citadel Trials, which are designed to test physical endurance, mental resilience, and the ability to function under constant pressure. Advancement within the organization is earned through survival, progressing from Apprentice to Journeyman and, in rare cases, to Black Diver.
+
+Black Divers are the organization’s most capable operatives. Some are renowned for their skill, others for their insight, and many for their ability to endure conditions that break most people. Figures such as Chaser, Klaris, and Carrion are well known, though far more Divers die without recognition. A small number manage to retire, including Sophodon Surad, who survived decades of exposure to the Depths before stepping away from active duty.
+
+Divers rely on a mix of technology and dangerous magic. They make use of attunements like Ironsing and Flamecharm, adapted monster abilities, and mechanical systems such as elevators to move between layers. In some cases, young initiates are trained early, a practice that has drawn criticism but continues due to necessity.
